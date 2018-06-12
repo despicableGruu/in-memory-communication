@@ -1,9 +1,9 @@
 [package]
 name = "memsocket"
 version = "0.1.4-alpha.0"
-authors = ["Alyssa Ross <hi@alyssa.is>"]
+authors = ["Brandon Richardson <brandon.richardson4328@outlook.com>"]
 description = "An asynchronous in-memory socket-like interface."
-repository = "https://github.com/alyssais/memsocket"
+repository = "https://github.com/despicableGruu/memsocket"
 keywords = ["socket", "in-memory", "asynchronous"]
 categories = ["asynchronous", "network-programming"]
 license = "MPL-2.0"
