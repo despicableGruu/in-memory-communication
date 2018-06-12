@@ -1,4 +1,3 @@
-# memsocket
+# In-Memory Communication
 
-An asynchronous socket-like interface for Rust, for when you want clients and
-servers to be able to communicate entirely in memory.
+A Rust library enabling asynchronous, socket-styled communication within a single process. Ideal for scenarios demanding rapid, internal data exchange without network overhead. 
